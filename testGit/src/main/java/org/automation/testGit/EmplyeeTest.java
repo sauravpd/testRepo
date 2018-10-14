@@ -8,6 +8,6 @@ public class EmplyeeTest
 		emp.setEmpName("Steve");
 		emp.setEmpNo(201);		
 		System.out.println(emp.getEmpName());
-
+		System.out.println(emp.getEmpNo());
 	}
 }
