@@ -15,5 +15,8 @@ public class EmplyeeTest
 
 		System.out.println(emp1.getEmpName());
 		System.out.println(emp1.getEmpNo());
+		
+		System.out.println(emp2.getEmpName());
+		System.out.println(emp2.getEmpNo());
 	}
 }
