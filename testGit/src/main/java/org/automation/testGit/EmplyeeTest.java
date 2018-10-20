@@ -4,10 +4,10 @@ public class EmplyeeTest
 {
 	public static void main(String[] args) 
 	{
-		Employee emp=new Employee();
-		emp.setEmpName("Steve");
-		emp.setEmpNo(201);		
-		System.out.println(emp.getEmpName());
-		System.out.println(emp.getEmpNo());
+		Employee emp1=new Employee();
+		emp1.setEmpName("Steve");
+		emp1.setEmpNo(201);		
+		System.out.println(emp1.getEmpName());
+		System.out.println(emp1.getEmpNo());
 	}
 }
