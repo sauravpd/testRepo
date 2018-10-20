@@ -12,6 +12,7 @@ public class EmplyeeTest
 		emp2.setEmpName("John");
 		emp2.setEmpNo(202);		
 		
+		System.out.println("Employee details");
 
 		System.out.println(emp1.getEmpName());
 		System.out.println(emp1.getEmpNo());
