@@ -11,7 +11,6 @@ public class EmplyeeTest
 		Employee emp1=new Employee();
 		emp1.setEmpName("Steve");
 		emp1.setEmpNo(201);		
-
 		Employee emp2=new Employee();
 		emp2.setEmpName("John");
 		emp2.setEmpNo(202);		
